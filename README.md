@@ -99,19 +99,6 @@ A 3D FPS project built with **Unity and C#**, featuring enemy AI, combat, health
 
 🔗 [View Project](https://github.com/BogdanAnokhin/unity-fps-wave-shooter)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=BogdanAnokhin&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanAnokhin&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
----
 
 ## 🔥 Contribution Graph
 
@@ -121,37 +108,6 @@ A 3D FPS project built with **Unity and C#**, featuring enemy AI, combat, health
 
 </div>
 
----
-
-## 🎯 Currently Learning
-
-```text
-JavaScript / Node.js
-        ↓
-Backend Development
-        ↓
-REST APIs & WebSockets
-        ↓
-Databases & SQL
-        ↓
-C# / .NET
-```
-
-I'm currently focusing on improving my backend development skills and building more complete applications.
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/BogdanAnokhin">
-<img src="https://img.shields.io/badge/GitHub-BogdanAnokhin-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
----
 
 <div align="center">
 
